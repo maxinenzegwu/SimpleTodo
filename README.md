@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-[App Demo Link](screenshots/Kapture 2020-06-24 at 1.02.13.gif)
+[App Demo Link](https://github.com/maxinenzegwu/SimpleTodo/raw/master/Kapture%202020-06-24%20at%201.02.13.gif)
 
 ## License
 
